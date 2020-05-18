@@ -16,8 +16,11 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
 
 // Create a base layer that holds both maps.
 let baseMaps = {
-  streets: streets,
-  satelliteStreets: satelliteStreets
+  Streets: streets
+};
+
+let overlayMaps = {
+  SatelliteStreets: satelliteStreets
 };
 
 // Create the map object with center, zoom level and default layer.
@@ -28,7 +31,7 @@ let map = L.map('mapid', {
 });
 
 // Pass our map layers into our layers control and add the layers control to the map.
-L.control.layers(baseMaps).addTo(map);
+L.control.layers(baseMaps, overlayMaps).addTo(map);
 
 // Accessing the Toronto neighborhoods GeoJSON URL.
 let torontoHoods = "https://raw.githubusercontent.com/Kalkidanalemaye/Mapping_Earthquakes/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
