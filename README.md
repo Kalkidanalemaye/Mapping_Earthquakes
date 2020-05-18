@@ -35,3 +35,15 @@ Leaflet Library
 
 ## Screenshot of final results
 
+### Image 1
+
+![Default](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/default%20map%20.jpg)
+
+### Image 2
+
+![Option1](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/overlay%20data%20options.jpg)
+
+### Image 3
+
+![Option2](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/second%20option.jpg)
+
