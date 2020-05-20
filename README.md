@@ -1,16 +1,16 @@
-# Mapping_Earthquakes/
+# Mapping_Earthquakes
 
 ## Learning Outcomes
 
-Create a branch from the master branch on GitHub.
-Add, commit, and push data to a GitHub branch.
-Merge a branch with the master branch on GitHub.
-Retrieve data from a GeoJSON file.
-Make API requests to a server to host geographical maps.
-Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library.
-Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
-Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
-Render maps on a local server.
+1. Create a branch from the master branch on GitHub.
+2. Add, commit, and push data to a GitHub branch.
+3. Merge a branch with the master branch on GitHub.
+4. Retrieve data from a GeoJSON file.
+5. Make API requests to a server to host geographical maps.
+6. Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library.
+7. Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
+8. Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
+9. Render maps on a local server.
 
 ## Module ClassWork
 
@@ -27,11 +27,18 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 
 ## Programs
 
-MapBox API
-GitHub
-CSS
-Javascript
-Leaflet Library
+1. MapBox API
+2. GitHub
+3. CSS
+4. Javascript
+5. Leaflet Library
 
 ## Screenshot of final results
+![1](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/default%20map%20.jpg)
+
+![2](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/overlay%20data%20options.jpg)
+
+![3](https://github.com/Kalkidanalemaye/Mapping_Earthquakes/blob/master/second%20option.jpg)
+
+
 
